@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bitNinja13
-- 👀 I’m interested in full stack development with NodeJS
-- 🌱 I’m currently learning React and TypeScript
+- 👋 Hi, I’m @luisma13-code
+- 👀 I’m experienced in backend development and some frontend development 
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: la582192@live.com
 - ⚡ Fun fact: ...
